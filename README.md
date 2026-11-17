@@ -1,4 +1,4 @@
-## Hi 👋, Iam Zedan EJAZ
+## Hi 👋, Iam Zedan Ejaz
 <!--
 **zeetech24/zeetech24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
